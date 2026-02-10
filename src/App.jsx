@@ -1,7 +1,7 @@
 import "./App.css";
 
 function Header(props) {
-  return <h1>Glenn {props.surname}</h1>;
+  return <h1>{props.surname}</h1>;
 }
 
 function Box(props) {
