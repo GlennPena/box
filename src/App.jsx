@@ -1,4 +1,4 @@
-import "./index.css";
+import "./App.css";
 
 function Header(props) {
   return <h1>Glenn {props.surname}</h1>;
